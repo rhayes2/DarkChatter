@@ -1,3 +1,35 @@
+Introduction
+
+Darkchatter will allow you to connect to discrete location based chat not hosted by a server.
+
+Users can meet new people:  Darkchatter allows him to chat with new people! that's what its for ! :)
+
+Users can chat in his free time: simply send your message out and see what you get back anywhere! no internet needed
+
+Users do worry about their information, with no sign-up they will have peace of mind knowing their data is not out there.
+
+Since Darkchatter is not using a central server no data connection is need. Users will never have to worry about going over their data cap again!
+
+Darkchatter looks like a normal messaging app for usability.
+
+ However the Magic happens under the hood. Instead of using the cellular or wifi networks, a message within a packet is sent from your phone to the surrounding area. People can then receive this packet if nearby and respond by sending their own packet broadcast to the area. Any Group chat created is done by the sharing of public key's using RSA encryption.  So you know your message will be safe from ill mannered individuals !
+
+Darkchatter is Exciting and Unique!
+- No Server to worry about collecting your data
+
+- No need for internet connection
+
+- Anonymous chatting!
+
+
+Make Meaning
+
+Quality of Life: Privacy for peace of mind communications
+
+Right a Wrong: WeChat got banned in some countries
+
+Something Good: AD-HOC networks with the focus of simplicity 
+
 
 Scapy is worth Checking out, can be used for alot of things
 https://scapy.net/
