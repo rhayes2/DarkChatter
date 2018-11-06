@@ -1,10 +1,10 @@
-How to Run:
+# How to Run:
 
  - Install Libpcap
 
  - Compile
 
-Introduction
+# Introduction
 
 Darkchatter will allow you to connect to discrete location based chat not hosted by a server.
 
