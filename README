@@ -40,6 +40,13 @@ Something Good: AD-HOC networks with the focus of simplicity
 Scapy is worth Checking out, can be used for alot of things
 https://scapy.net/
 
+Briar seems to do something similar, it goes via Internet but if Internet is down, can sync via bluetooth and wifi
+https://briarproject.org/
+ Maybe IPFS for storage?
+ 
+https://ipfs.io/
+ Not sure if this can be implemented well in mobile phones but [software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio)
+is interesting, as opposed to using wifi.  
 
 
 Anyone interested in the project is encouraged to join the DarkChatter Development Discord server"
